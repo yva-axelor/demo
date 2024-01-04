@@ -5,7 +5,8 @@ class Hello
     System.out.println("Hello");
     System.out.println("Hi");
     System.out.println("how are you?");
-    System.out.pritln("change from main branch");
+    System.out.pritln("from yash branch");
+
     
     }
   }
